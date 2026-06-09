@@ -1,5 +1,6 @@
 # CODSOFT
 I have completed tasks given for my internship as a Data Science in CodSoft. I hope it will be helpfull for you.
+
 Task 1:
 TITANIC SURVIVAL PREDICTION
 Use the Titanic dataset to build a model that predicts whether a
@@ -8,6 +9,7 @@ project with readily available data.
 The dataset typically used for this project contains information
 about individual passengers, such as their age, gender, ticket
 class, fare, cabin, and whether or not they survived.
+
 Task-2:
 MOVIE RATING PREDICTION WITH PYTHON
 Build a model that predicts the rating of a movie based on
@@ -21,6 +23,7 @@ analysis, preprocessing, feature engineering, and machine
 learning modeling techniques. It provides insights into the factors
 that influence movie ratings and allows you to build a model that
 can estimate the ratings of movies accurately.
+
 Task-3:
 IRIS FLOWER CLASSIFICATION
 
@@ -36,6 +39,7 @@ Use the Iris dataset to develop a model that can classify iris
 flowers into different species based on their sepal and petal
 measurements. This dataset is widely used for introductory
 classification tasks.
+
 Task-4:
 CREDIT CARD FRAUD DETECTION
 
